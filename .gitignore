@@ -1,0 +1,34 @@
+# NativeScript
+car-rental/hooks/
+car-rental/node_modules/
+car-rental/platforms/
+
+# NativeScript Template
+*.js.map
+*.js
+!webpack.config.js
+*.css
+
+# Logs
+car-rental/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# General
+car-rental/.DS_Store
+car-rental/.AppleDouble
+car-rental/.LSOverride
+car-rental/.idea
+car-rental/.cloud
+car-rental/.project
+car-rental/tmp/
+car-rental/typings/
+
+# Visual Studio Code
+car-rental/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
